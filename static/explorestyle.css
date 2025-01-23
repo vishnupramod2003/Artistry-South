@@ -1,0 +1,175 @@
+html{
+    background-image: url(../assets/images/kathakali.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.overview{
+    width: 45%;
+    font-family: Arial, sans-serif;
+    font-size:1.25rem;
+    line-height: 1.6;
+    color:rgb(248, 249, 250);
+    opacity: 1.0;
+    margin-left:10px;
+}
+.list1{
+    display:flex;
+    margin-bottom:40px;
+}
+.kerala-list-text{
+    width:40%;
+    height:300px;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    margin-left:120px;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+.kerala-list-img {
+    width: 45%;            
+    height: 300px;         
+    overflow: hidden;     
+    border-radius: 10px;   
+    display: flex;         
+    justify-content: center; 
+    align-items: center;   
+    margin-left:auto;
+    margin-right: 15px;
+}
+
+.kerala-list-img-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.list2{
+    display:flex;
+    margin-bottom:40px;
+}
+.tamilnadu-list-text{
+    width:40%;
+    height:300px;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    margin-right:120px;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+.tamilnadu-list-img {
+    width: 45%;            
+    height: 300px;         
+    overflow: hidden;     
+    border-radius: 10px;   
+    display: flex;         
+    justify-content: center; 
+    align-items: center;   
+    margin-right:auto;
+    margin-left: 15px;
+}
+
+.tamilnadu-list-img-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.list3{
+    display:flex;
+    margin-bottom:40px;
+}
+.karnataka-list-text{
+    width:40%;
+    height:300px;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    margin-left:120px;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+.karnataka-list-img {
+    width: 45%;            
+    height: 300px;         
+    overflow: hidden;     
+    border-radius: 10px;   
+    display: flex;         
+    justify-content: center; 
+    align-items: center;   
+    margin-left:auto;
+    margin-right: 15px;
+}
+
+.karnataka-list-img-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.list4{
+    display:flex;
+    margin-bottom:40px;
+}
+.andhrapradesh-list-text{
+    width:40%;
+    height:300px;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    margin-right:120px;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+.andhrapradesh-list-img {
+    width: 45%;            
+    height: 300px;         
+    overflow: hidden;     
+    border-radius: 10px;   
+    display: flex;         
+    justify-content: center; 
+    align-items: center;   
+    margin-right:auto;
+    margin-left: 15px;
+}
+
+.andhrapradesh-list-img-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.list5{
+    display:flex;
+    margin-bottom:40px;
+}
+.telangana-list-text{
+    width:40%;
+    height:300px;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    margin-left:120px;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+.telangana-list-img {
+    width: 45%;            
+    height: 300px;         
+    overflow: hidden;     
+    border-radius: 10px;   
+    display: flex;         
+    justify-content: center; 
+    align-items: center;   
+    margin-left:auto;
+    margin-right: 15px;
+}
+
+.telangana-list-img-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
