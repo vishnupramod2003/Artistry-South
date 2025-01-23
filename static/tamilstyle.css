@@ -1,0 +1,73 @@
+/* General body styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('../assets/images/tamilnadu.jpg');
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+/* Header section */
+.heading {
+    margin-top: 75px;
+    font-size: 7rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.text{
+    font-size: 1.5rem;
+    line-height: 1.6;
+    max-width: 75%;
+    margin: 20px auto;
+    text-align:left;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
+
+/* Styling the buttons */
+.buttons {
+    margin-top: 40px;
+}
+
+.buttons button {
+    width: 450px;
+    height: 250px;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
+    margin-bottom:30px;
+    
+}
+
+
+.buttons button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+}
+
+/* Button background images */
+.artforms {
+    background: url('../assets/images/tamil-art.jpg') no-repeat;
+    color:white;
+    font-size: 3rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+    
+}
+
+.handcrafts {
+    background: url('../assets/images/tamil-craft.png') no-repeat;
+    color:white;
+    font-size: 3rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+}
